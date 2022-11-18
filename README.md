@@ -15,7 +15,7 @@
 *Talking about Personal Stuffs:*
 
 
-- 👨🏽‍💻 I’m currently working on [Mongooes Db,Node Js and mysql](https://github.com/facebook/react-native);
+- 👨🏽‍💻 I’m currently working on [FireBase,Mongooes Db,Node Js and mysql](https://github.com/facebook/react-native);
 - 🌱 I’m currently learning Solidity and blockchain; 
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
