@@ -1,28 +1,5 @@
-## Hi there 👋
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://www.linkedin.com/in/osamaasghar/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osamaasghar/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/usama_asghar7866/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:asgharusama4@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:asgharusama4@gmail.com)
-[![Twitter](https://img.shields.io/badge/-twitter-0078D4?style=flat&logo=twitter-Outlook&logoColor=white)](https://twitter.com/malikosama888/)
-<br />
-<br />
-
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
-  
-*Talking about Personal Stuffs:*
-
-
-- 👨🏽‍💻 I’m currently working on [FireBase Cloud Functions, Node Js and developing RESTFUL API's ](https://github.com/facebook/react-native);
-- 🌱 I’m currently learning Solidity and blockchain; 
-- 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡ Fun-Fact: I have a degree in Software engineering;
-- 📫 How to reach me: asgharusama4@gmail.com;
-
-
+# 💫 About Me:
+🚀 As an Associate Software Engineer and Full Stack Developer, I specialize in crafting exceptional applications from the ground up. I thrive on challenges and am passionate about transforming ideas into innovative solutions. Let's collaborate to create something extraordinary! 💻✨
 
 
 <img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
