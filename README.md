@@ -6,7 +6,8 @@
 
 ## 🌐 Get in Touch.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osamaasghar/) 
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+923329321095)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:asgharusama4@gmail.com)
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
