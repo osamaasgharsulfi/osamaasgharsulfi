@@ -9,8 +9,6 @@
 
 
 
-![Usama github stats](https://github-readme-stats.vercel.app/api?username=osamaasgharsulfi&show_icons=true&hide_border=true)
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
